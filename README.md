@@ -17,12 +17,15 @@ Pyramid Pi is a project developed in Python with the aim of automating and speed
 - Depending on the port of your TV / monitor, you will need one of the following cables:
 
   HDMI-HDMI cable
+  
 ![image](https://user-images.githubusercontent.com/85902337/130700347-26edd0f8-ec2d-4dad-bd9a-97d624265c7b.png)
 
   HDMI-VGA cable
+  
 ![image](https://user-images.githubusercontent.com/85902337/130700485-35c3f8fc-2e3c-4270-912b-ac8084a3c9b1.png)
 
   HDMI-DVI cable
+  
 ![image](https://user-images.githubusercontent.com/85902337/130700535-f8656c96-e84e-43da-8110-f52f87232db5.png)
 
 Prepare the Raspberry Pi to start following the instructions.

@@ -1,5 +1,7 @@
 # Pyramid-Pi
 
+![Captura de Pantalla 2021-09-04 a la(s) 16 32 01](https://user-images.githubusercontent.com/85902337/132108555-0bdc1d66-2c61-4d35-965f-e27dd630d27a.png)
+
 Pyramid Pi is a project developed in Python with the aim of automating and speeding up the construction of pyramids and towers within Minecraft Pi, being of great help when you want to build large structures.
 
 ## PREREQUISITES
